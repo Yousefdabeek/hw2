@@ -1,0 +1,69 @@
+body{
+    background-color: grey;
+    margin-left: 600px;
+}
+p{
+    font-size: 25px;
+}
+#p1{
+    font-family: sans-serif;
+    border-style: inset;
+    border-width: 4px;
+    border-radius: 10px;
+    border-color: black;
+    padding: 4px;
+    width: 600px;
+    height: 120px;
+    
+}
+#ul1{
+    font-size:25px;
+    border-style: dotted;
+    padding: 4px;
+    width: 600px;
+    height: 90px;
+}
+
+h1{
+    font-size: 50px;
+}
+
+dd{
+    font-size:25px;
+}
+#dg{
+    font-family:"Press Start 2P";
+}
+dt{
+    font-family:fantasy;
+}
+#dream{
+    border-style: inset;
+    width: 600px;
+    font-family:cursive;
+    border-width: 4px;
+    border-radius: 10px;
+    border-color: black;
+    padding: 4px;
+}
+#pd{
+    font-family: sans-serif;
+    border-style: inset;
+    border-width: 4px;
+    border-radius: 10px;
+    border-color: black;
+    width:600px;
+    height: 250px;
+    
+    
+}
+#ap{
+    font-family:inherit;
+    font-size: 30px;
+}
+.mar{
+    margin-left: 25px;
+}
+.a1{
+    margin-left:60px ;
+}
